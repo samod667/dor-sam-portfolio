@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540">
+<defs><radialGradient id="disc" cx="35%" cy="26%" r="75%"><stop stop-color="#fbfbf9"/><stop offset=".55" stop-color="#e5e6e3"/><stop offset="1" stop-color="#bdc0bc"/></radialGradient><filter id="sh"><feGaussianBlur stdDeviation="20"/></filter></defs>
+<rect width="960" height="540" fill="#dddeda"/>
+<ellipse cx="487" cy="419" rx="250" ry="39" fill="#969995" opacity=".23" filter="url(#sh)"/>
+<circle cx="479" cy="250" r="188" fill="url(#disc)"/>
+<text x="42" y="59" fill="#424640" font-size="16" letter-spacing="3" font-family="Arial,Helvetica,sans-serif">STUDY 01</text>
+<path d="M42 486H918" stroke="#a5a8a3" stroke-width="1"/>
+<text x="42" y="512" fill="#52554f" font-size="13" letter-spacing="2" font-family="Arial,Helvetica,sans-serif">FORM / MOTION</text>
+<text x="916" y="512" text-anchor="end" fill="#52554f" font-size="13" font-family="Arial,Helvetica,sans-serif">01 — 04</text>
+</svg>

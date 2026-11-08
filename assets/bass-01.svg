@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 560">
+<rect width="560" height="560" fill="#e3e3df"/>
+<circle cx="280" cy="280" r="188" fill="none" stroke="#b4b7b0" stroke-width="1.5"/>
+<circle cx="280" cy="280" r="138" fill="none" stroke="#b4b7b0" stroke-width="1.5"/>
+<circle cx="280" cy="280" r="89" fill="none" stroke="#b4b7b0" stroke-width="1.5"/>
+<circle cx="280" cy="280" r="28" fill="#6c706a"/>
+<text x="35" y="51" fill="#3d3f3a" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="3">SESSIONS  /  01</text>
+<text x="35" y="523" fill="#454741" font-family="Arial,Helvetica,sans-serif" font-size="27" letter-spacing="-1">RECORDINGS</text>
+</svg>

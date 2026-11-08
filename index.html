@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="referrer" content="strict-origin-when-cross-origin">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#ffffff">
+  <meta name="description" content="Dor Sam — sound design and original scoring for moving images and electric & upright bass for recordings.">
+  <title>Dor Sam — Sound Design, Original Scoring & Studio Bass</title>
+  <link rel="icon" type="image/svg+xml" href="assets/favicon.svg">
+  <link rel="stylesheet" href="styles.css?v=contact-8">
+</head>
+<body>
+  <a class="skip-link" href="#sound-design">Skip to work</a>
+  <header class="site-header container" id="top">
+    <div class="header-inner">
+      <div class="identity">
+        <h1><a class="brand" href="#top">Dor Sam</a></h1>
+        <p>Bass Player &amp; Sound Designer</p>
+      </div>
+      <nav class="desktop-nav" aria-label="Main navigation">
+        <a href="#sound-design">Sound Design &amp; Original Scoring</a><a href="#studio-bass">Studio Bass &amp; Session Work</a><a href="#about">About</a><a href="#contact">Contact</a>
+      </nav>
+      <button type="button" class="mobile-menu-button" id="menuButton" aria-expanded="false" aria-controls="mobileMenu">Menu <span aria-hidden="true">+</span></button>
+    </div>
+    <nav class="mobile-nav" id="mobileMenu" aria-label="Mobile navigation" hidden>
+      <a href="#sound-design">Sound Design &amp; Original Scoring</a><a href="#studio-bass">Studio Bass &amp; Session Work</a><a href="#about">About</a><a href="#contact">Contact</a>
+    </nav>
+  </header>
+  <main class="container">
+    <section class="portfolio-section" id="sound-design" aria-labelledby="sound-heading">
+      <div class="section-top">
+        <h2 id="sound-heading">Sound Design &amp; Original Scoring</h2>
+        <p>Sound design &amp; original compositions for picture.</p>
+      </div>
+      <div class="sound-grid" id="soundGrid" aria-label="Sound design and original scoring projects"></div>
+    </section>
+    <section class="portfolio-section" id="studio-bass" aria-labelledby="bass-heading">
+      <div class="section-top">
+        <h2 id="bass-heading">Studio Bass &amp; Session Work</h2>
+        <p>Electric &amp; upright bass. Studio and remote sessions.</p>
+      </div>
+      <div class="bass-grid" id="bassGrid" role="region" tabindex="0" aria-label="Recordings — scroll to explore all songs"></div>
+    </section>
+    <section class="about-section" id="about" aria-labelledby="about-heading">
+      <div class="about-portrait"><img src="assets/dor-sam.jpg" alt="Dor Sam playing bass in the studio" width="1000" height="1500" loading="lazy"></div>
+      <div class="about-copy">
+        <h2 id="about-heading">About</h2>
+        <p>I'm Dor, a bass player and sound designer based in Tel Aviv.</p>
+        <p>I've been working as a professional bassist for over 20 years, performing live and recording in the studio across a wide range of musical styles. Over the years, I've had the opportunity to collaborate with many different artists and musicians, exploring different musical approaches and developing my own sound.</p>
+        <p>Alongside my work as a bassist, I create sound design for visual media, focusing on unique sounds, textures, and sonic details that bring images to life and enhance the storytelling.</p>
+        <p>My background in music plays a big role in how I approach sound design. I enjoy experimenting with acoustic recordings, electronic sounds, and unconventional techniques to create something distinctive for each project. Whether it's a subtle sound effect or a complete sonic atmosphere, I believe sound is an essential part of how we experience and connect with visuals.</p>
+      </div>
+    </section>
+  </main>
+  <footer id="contact" class="site-footer container">
+    <div class="footer-main">
+      <h2>Contact</h2>
+      <div class="contact-copy">
+        <p>For sound design, recordings &amp; collaborations.</p>
+        <a id="emailLink" class="email-link" href="mailto:dorsamoha@gmail.com" hidden></a>
+        <p class="email-warning" id="emailWarning">Connect with me below.</p>
+        <div class="social-links" id="socialLinks" aria-label="Contact and social profiles"></div>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>© <span id="copyrightYear">2026</span> Dor Sam</span>
+      <a href="#top">Back to top ↑</a>
+    </div>
+  </footer>
+  <dialog class="work-dialog" id="workDialog" aria-labelledby="dialogTitle">
+    <div class="dialog-toolbar"><span id="dialogMode" hidden></span>
+      <button class="close-dialog" type="button" id="closeDialog" aria-label="Close details">Close <span aria-hidden="true">×</span></button></div>
+    <div class="dialog-image" id="dialogImage"></div>
+    <div class="dialog-details">
+      <p class="dialog-kicker" id="dialogKicker"></p><h2 id="dialogTitle"></h2>
+      <p id="dialogRole"></p><p id="dialogDescription"></p>
+      <div id="dialogPlatforms"></div><p class="dialog-note" id="dialogNote"></p>
+    </div>
+  </dialog>
+  <script src="content.js?v=contact-8"></script><script src="script.js?v=contact-8"></script>
+</body>
+</html>

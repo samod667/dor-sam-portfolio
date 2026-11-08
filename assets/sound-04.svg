@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540">
+<rect width="960" height="540" fill="#e4e4e1"/>
+<rect x="72" y="61" width="816" height="418" fill="#d8d9d5"/>
+<path d="M72 61H888V479H72Z" fill="none" stroke="#cacbc7" stroke-width="1"/>
+<path d="M102 435L454 92M182 469L535 90M312 473L666 89M442 473L797 89M569 473L889 157" stroke="#f4f4f1" stroke-width="36" stroke-linecap="square" opacity=".62"/>
+<rect x="73" y="436" width="816" height="42" fill="#d8d9d5"/>
+<text x="113" y="457" fill="#4c4e4a" font-size="12" letter-spacing="4" font-family="Arial,Helvetica,sans-serif">IMAGE / SOUND / SPACE</text>
+<circle cx="800" cy="111" r="12" fill="#40423f"/>
+</svg>
