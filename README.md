@@ -1,6 +1,6 @@
 # Dor Sam — Portfolio
 
-Private, unpublished portfolio draft for Dor Sam: bass player and sound designer based in Tel Aviv. Built with static HTML, CSS and JavaScript; no build step or dependencies.
+Portfolio for Dor Sam: bass player and sound designer based in Tel Aviv. Built with static HTML, CSS and JavaScript; no build step or dependencies.
 
 ## Preview locally
 
@@ -15,11 +15,13 @@ Run `python3 preview.py`, or double-click `Open Preview.command` on macOS. Keep 
 - `assets/`: poster images, artwork, portrait and icons.
 - `recording-links.md`: recording destinations.
 
-## Video files are not stored in Git
+## Video files
 
-The full-resolution MP4 files and downloadable website ZIP are intentionally ignored. They remain in the local project folder. A fresh clone includes posters and code, but needs the video files restored into `assets/video/` to play the portfolio films. See `assets/video/README.md` for the filenames.
+The website uses 1080p H.264/AAC exports in `assets/video/web/`, tracked in Git. They include fast-start metadata and 320 kbps audio. Full-resolution originals in `assets/video/` remain local and ignored, along with ZIP backups. Do not overwrite the originals when exporting future films.
 
-Before launch, select video hosting and replace the local `video` paths in `content.js` with hosted MP4 URLs or supported embeds. Do not commit the full-resolution videos to Git.
+## GitHub Pages
+
+Publish from the `main` branch and repository root in Settings → Pages. `.nojekyll` keeps this buildless site unchanged. All website paths are relative, so the same files support a GitHub project URL and a future custom domain. Configure a custom domain only after purchasing it and setting its DNS records.
 
 ## Current content
 
@@ -27,10 +29,6 @@ The gallery contains Cortex Launch and Cortex Teaser (both sound design and orig
 
 Some official YouTube uploads reject embedded playback. Entries with `youtubeEmbed: false` use Spotify for inline listening and link directly to YouTube through the YouTube icon. Other YouTube entries play inline, with provider-error fallback. Full-track availability depends on the streaming provider, browser, region and account.
 
-## Before publishing
+## Publication checks
 
-- Configure video hosting and test the films on the deployed domain.
-- Check music playback, keyboard navigation and mobile layout.
-- Choose the production hosting service and domain.
-
-Creating or updating this repository does not publish the website. No deployment workflow is configured.
+Verify all four films, music providers, contact links, and mobile layout on the deployed domain. Source syncing alone does not enable GitHub Pages; its publishing source must be configured in repository settings.

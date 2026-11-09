@@ -1,6 +1,6 @@
 # Local video assets
 
-These files are intentionally excluded from Git. Keep the originals backed up separately. Restore them to this folder for local playback, or configure hosted URLs in `content.js` before publication.
+The full-resolution originals listed below are excluded from Git. The website plays smaller 1080p H.264/AAC exports in `web/`, which are tracked and included in deployment. Keep the originals backed up separately.
 
 - `agora-marketing.mp4` — 321.4 MiB
 - `cortex-final.mp4` — 148.7 MiB

@@ -1,4 +1,4 @@
-# Large media stays local until video hosting is selected.
+# Original full-resolution media stays local; web exports are tracked.
 *.mp4
 *.webm
 *.mov
@@ -15,3 +15,5 @@
 __pycache__/
 *.pyc
 node_modules/
+
+!assets/video/web/*.mp4
