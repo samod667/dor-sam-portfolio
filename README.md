@@ -23,13 +23,12 @@ Before launch, select video hosting and replace the local `video` paths in `cont
 
 ## Current content
 
-The gallery contains Cortex (sound design and original music), Agora Marketing Film (sound design), Lava Marketing Concept (sound design), and one upcoming Agora placeholder. The recording panel contains 21 credits with Spotify, Apple Music and available YouTube links. The supplied biography, portrait, email, LinkedIn and Instagram are connected.
+The gallery contains Cortex Launch and Cortex Teaser (both sound design and original music), Agora Marketing Film (sound design), and Lava Marketing Concept (sound design). The recording panel contains 21 credits with Spotify, Apple Music and available YouTube links. The supplied biography, portrait, email, LinkedIn and Instagram are connected.
 
 Some official YouTube uploads reject embedded playback. Entries with `youtubeEmbed: false` use Spotify for inline listening and link directly to YouTube through the YouTube icon. Other YouTube entries play inline, with provider-error fallback. Full-track availability depends on the streaming provider, browser, region and account.
 
 ## Before publishing
 
-- Replace the upcoming Agora placeholder with the final video and credits.
 - Configure video hosting and test the films on the deployed domain.
 - Check music playback, keyboard navigation and mobile layout.
 - Choose the production hosting service and domain.
