@@ -112,3 +112,28 @@ Upright bass
 - [appleMusic](https://music.apple.com/us/album/1477865901?i=1477866289)
 - [spotify](https://open.spotify.com/track/7FL0NHmQhAWS2DIPhQqMmU)
 - YouTube match not yet verified.
+
+## Trail of Gold — Sol Monk
+Electric bass
+
+- [Spotify](https://open.spotify.com/track/127im17oFKBZvDQCbDU1cT)
+
+## Sands Don't Sleep — Sol Monk
+Electric bass
+
+- [Spotify](https://open.spotify.com/track/2e0VkZ6uIKo2ilYuCXZ4Mo)
+
+## Ripples — Sol Monk, Tamuz Dekel, Dor Sam, Avishai Cohen
+Electric bass
+
+- [Spotify](https://open.spotify.com/track/5ElTageEXGAb2vkKO77d0u)
+
+## Arrows — Sol Monk, Tamuz Dekel, Dor Sam, KerenDun
+Electric bass
+
+- [Spotify](https://open.spotify.com/track/2qxv14ojmWpJZJWULRRJsG)
+
+## Blue Hall — Sol Monk
+Electric bass
+
+- [Spotify](https://open.spotify.com/track/1Gw0H1NkGhPPCAlqKZ0OVZ)

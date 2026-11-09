@@ -238,6 +238,66 @@ window.DOR_SITE = {
       "description": "Electric bass by Dor Sam."
     },
     {
+      "title": "Trail of Gold",
+      "artist": "Sol Monk",
+      "role": "Electric bass",
+      "image": "assets/releases/127im17oFKBZvDQCbDU1cT.jpg",
+      "platforms": {
+        "spotify": "https://open.spotify.com/track/127im17oFKBZvDQCbDU1cT"
+      },
+      "playback": "",
+      "embed": "https://open.spotify.com/embed/track/127im17oFKBZvDQCbDU1cT",
+      "description": "Electric bass by Dor Sam."
+    },
+    {
+      "title": "Sands Don't Sleep",
+      "artist": "Sol Monk",
+      "role": "Electric bass",
+      "image": "assets/releases/2e0VkZ6uIKo2ilYuCXZ4Mo.jpg",
+      "platforms": {
+        "spotify": "https://open.spotify.com/track/2e0VkZ6uIKo2ilYuCXZ4Mo"
+      },
+      "playback": "",
+      "embed": "https://open.spotify.com/embed/track/2e0VkZ6uIKo2ilYuCXZ4Mo",
+      "description": "Electric bass by Dor Sam."
+    },
+    {
+      "title": "Ripples",
+      "artist": "Sol Monk, Tamuz Dekel, Dor Sam, Avishai Cohen",
+      "role": "Electric bass",
+      "image": "assets/releases/5ElTageEXGAb2vkKO77d0u.jpg",
+      "platforms": {
+        "spotify": "https://open.spotify.com/track/5ElTageEXGAb2vkKO77d0u"
+      },
+      "playback": "",
+      "embed": "https://open.spotify.com/embed/track/5ElTageEXGAb2vkKO77d0u",
+      "description": "Electric bass by Dor Sam."
+    },
+    {
+      "title": "Arrows",
+      "artist": "Sol Monk, Tamuz Dekel, Dor Sam, KerenDun",
+      "role": "Electric bass",
+      "image": "assets/releases/2qxv14ojmWpJZJWULRRJsG.jpg",
+      "platforms": {
+        "spotify": "https://open.spotify.com/track/2qxv14ojmWpJZJWULRRJsG"
+      },
+      "playback": "",
+      "embed": "https://open.spotify.com/embed/track/2qxv14ojmWpJZJWULRRJsG",
+      "description": "Electric bass by Dor Sam."
+    },
+    {
+      "title": "Blue Hall",
+      "artist": "Sol Monk",
+      "role": "Electric bass",
+      "image": "assets/releases/1Gw0H1NkGhPPCAlqKZ0OVZ.jpg",
+      "platforms": {
+        "spotify": "https://open.spotify.com/track/1Gw0H1NkGhPPCAlqKZ0OVZ"
+      },
+      "playback": "",
+      "embed": "https://open.spotify.com/embed/track/1Gw0H1NkGhPPCAlqKZ0OVZ",
+      "description": "Electric bass by Dor Sam."
+    },
+    {
       "title": "Back To The Chicken",
       "artist": "Shay Zelman",
       "role": "Upright bass",
