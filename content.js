@@ -8,7 +8,7 @@ window.DOR_SITE = {
     {
       "title": "Agora — Cortex Launch",
       "category": "Sound design · Original music",
-      "image": "assets/cortex-launch-dark.jpg",
+      "image": "assets/cortex-launch-title.jpg",
       "hoverImage": "assets/cortex-launch-poster.jpg",
       "video": "assets/video/web/cortex-launch.mp4",
       "description": "The main launch film for Cortex, Agora’s AI product. Sound design and original music composed by Dor Sam."
@@ -32,7 +32,7 @@ window.DOR_SITE = {
     {
       "title": "Lava — Marketing Concept",
       "category": "Sound design",
-      "image": "assets/lava-poster.jpg",
+      "image": "assets/lava-stage.jpg",
       "video": "assets/video/web/lava-final.mp4",
       "description": "A marketing concept for Lava, inspired by the NVIDIA GTC event in Berlin. Sound design by Dor Sam.",
       "hoverImage": "assets/lava-hover.jpg"

@@ -21,6 +21,8 @@ The website uses 1080p H.264/AAC exports in `assets/video/web/`, tracked in Git.
 
 ## GitHub Pages
 
+Live site: https://samod667.github.io/dor-sam-portfolio/
+
 Publish from the `main` branch and repository root in Settings → Pages. `.nojekyll` keeps this buildless site unchanged. All website paths are relative, so the same files support a GitHub project URL and a future custom domain. Configure a custom domain only after purchasing it and setting its DNS records.
 
 ## Current content
