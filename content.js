@@ -16,7 +16,7 @@ window.DOR_SITE = {
     {
       "title": "Agora — Cortex Teaser",
       "category": "Sound design · Original music",
-      "image": "assets/cortex-teaser-office.jpg",
+      "image": "assets/cortex-teaser-architecture.jpg",
       "video": "assets/video/web/cortex-final.mp4",
       "description": "A video teaser introducing Cortex, Agora’s new AI product. Sound design and original music by Dor Sam.",
       "hoverImage": "assets/cortex-poster.jpg"
