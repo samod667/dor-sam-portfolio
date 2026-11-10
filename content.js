@@ -19,7 +19,7 @@ window.DOR_SITE = {
       "image": "assets/cortex-teaser-architecture.jpg",
       "video": "assets/video/web/cortex-final.mp4",
       "description": "A video teaser introducing Cortex, Agora’s new AI product. Sound design and original music by Dor Sam.",
-      "hoverImage": "assets/cortex-poster.jpg"
+      "hoverImage": "assets/cortex-teaser-assistant.jpg"
     },
     {
       "title": "Agora — Marketing Film",
