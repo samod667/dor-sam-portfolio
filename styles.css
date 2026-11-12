@@ -249,7 +249,7 @@ body:has(.work-dialog[open]) { overflow:hidden; }
 }
 
 /* The white draft, with the tightly joined gallery from the ivory study. */
-.sound-grid { column-gap:3px; row-gap:3px; }
+.sound-grid { gap:clamp(12px, 1.5vw, 20px); }
 #soundGrid .media-frame { aspect-ratio:16/9; }
 #soundGrid .work-card { position:relative; }
 #soundGrid .media-frame::after { content:''; position:absolute; inset:0; background:linear-gradient(transparent 45%,rgba(0,0,0,.68)); opacity:0; transition:opacity .25s; pointer-events:none; }
